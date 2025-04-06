@@ -59,7 +59,8 @@ Make this project **your own**!
 ---
 
 ## 📜 **License**  
-*Made with ❤️ Prince Kumar Giri*  
+This project is licensed under the MIT License – see [LICENSE](LICENSE) for details.  
+*Made with ❤️ Aoudumber Bade*  
 
 ---
 

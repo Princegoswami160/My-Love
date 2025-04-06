@@ -1,4 +1,4 @@
-
+alert('click On Your Image Cutiee');
 const clickbutton = document.querySelector('#text')
   clickbutton.addEventListener("click", function(){
     document.querySelector('.container').style.display = "flex"
